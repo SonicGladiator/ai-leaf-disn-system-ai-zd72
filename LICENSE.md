@@ -1,4 +1,4 @@
-# 
+# Código aberto AI leaf disease detection system fluxo de trabalho. Com reconhecimento de voz e integração de chatbot — otimizado para máximo desempenho.
 
 
 
